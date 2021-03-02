@@ -14,7 +14,7 @@ repositories {
 
 ```
 dependencies {
-    implementation 'com.kualitee:kualiteesdk:1.0.1'
+    implementation 'com.kualitee:kualiteesdk:1.0.2'
 }
 ```
 
